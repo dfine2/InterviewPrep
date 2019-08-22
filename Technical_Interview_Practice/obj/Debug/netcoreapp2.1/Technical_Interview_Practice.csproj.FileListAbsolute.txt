@@ -1,0 +1,11 @@
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\bin\Debug\netcoreapp2.1\Technical_Interview_Practice.deps.json
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\bin\Debug\netcoreapp2.1\Technical_Interview_Practice.runtimeconfig.json
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\bin\Debug\netcoreapp2.1\Technical_Interview_Practice.runtimeconfig.dev.json
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\bin\Debug\netcoreapp2.1\Technical_Interview_Practice.dll
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\bin\Debug\netcoreapp2.1\Technical_Interview_Practice.pdb
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\obj\Debug\netcoreapp2.1\Technical_Interview_Practice.csprojAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\obj\Debug\netcoreapp2.1\Technical_Interview_Practice.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\obj\Debug\netcoreapp2.1\Technical_Interview_Practice.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\obj\Debug\netcoreapp2.1\Technical_Interview_Practice.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\obj\Debug\netcoreapp2.1\Technical_Interview_Practice.dll
+C:\Users\David\Documents\GitHub\Technical_Interview_Practice\Technical_Interview_Practice\obj\Debug\netcoreapp2.1\Technical_Interview_Practice.pdb
